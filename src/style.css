@@ -65,7 +65,7 @@ body {
 
 @media (max-width: 480px) {
   .gallery-container {
-    grid-template-columns: 1fr;
+    grid-template-columns: 2fr;
   }
 }
 
